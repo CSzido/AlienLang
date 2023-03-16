@@ -3,6 +3,7 @@
 		<متغير ترميز = "utf-8"> 
 		<عنوان> أهلا بالعالم </عنوان>
 		<ملف ع = "ملف_تصميم" رابط = "css/style.css">
+		<ملف ع = "icon" رابط = "img/logo.ico">
 	</راس>
 	
 	<جسم>
@@ -12,7 +13,7 @@
 				<ع2 عنوان = "text"> Alien </ع2>
 			</حاوي>
 		</حاوي>
-		<رابط رابط = "https://www.mediafire.com/file/96cb2pzlk84xhv8/Alien_Installer.EXE/file?fbclid=IwAR11VEjngMvEZcevDtkmEOKHvPuH5YoG7ZlV-7a6XdUP5Gh-wV7jKLq7Mho">
+		<رابط رابط = "https://www.mediafire.com/file/96cb2pzlk84xhv8/Alien_Installer.EXE/file">
 			<زر تصنيف = "download"> Download </زر>
 		</رابط>
 		<حاوي تصنيف = "grid_container">
