@@ -1,7 +1,7 @@
 <صفحة> 
 	<راس>
 		<متغير ترميز = "utf-8"> 
-		<عنوان> أهلا بالعالم </عنوان>
+		<عنوان> AlienLang | Multilingual Arabic programming language </عنوان>
 		<ملف ع = "ملف_تصميم" رابط = "css/style.css">
 		<ملف ع = "icon" رابط = "img/logo.ico">
 	</راس>
